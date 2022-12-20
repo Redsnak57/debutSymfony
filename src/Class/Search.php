@@ -6,7 +6,7 @@ use App\Entity\Category;
 
 class Search {
 
-    public string $string = "";
-    public $categories = [];
+    public ?string $string = "";
+    public  $categories = [];
 
 }
