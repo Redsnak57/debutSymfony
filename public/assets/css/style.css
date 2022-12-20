@@ -46,3 +46,8 @@ body {
 .rowProduct {
     margin-top: 100px;
 }
+
+.cart-icon {
+    height: 18px;
+    padding-left: 20px;
+}
